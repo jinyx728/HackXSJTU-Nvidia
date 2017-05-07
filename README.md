@@ -2,11 +2,11 @@
  We made this project when we participated Hack x SJTU compotition 
  Thanks NVIDIA for their technical support
 #### Group member:
-[Jin Yongxu,](https://github.com/JosephKim6)
-[Luo Anqi,]()
-[Gou Minghao,]()
-[Wang Tao,](https://github.com/IrvingW)
-[Qian Xinxin,]()
+[Jin Yongxu,](https://github.com/JosephKim6)\
+[Luo Anqi,]()\
+[Gou Minghao,]()\
+[Wang Tao,](https://github.com/IrvingW)\
+[Qian Xinxin,]()\
 
 #### Function Detail
 We implemented a smart car using Arduino and TX1.
