@@ -46,5 +46,5 @@ Then create a node named ros_caffe_test
 
 ```
 
-#### Here is the [official website of Hackson.](https://www.hackx.org/)
+#### Here is the [official website of Hackthon.](https://www.hackx.org/)
 
