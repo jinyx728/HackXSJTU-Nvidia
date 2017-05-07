@@ -1,5 +1,5 @@
-## README FILE
- We made this project when we participated Hack x SJTU compotition 
+## NVIDIA SMART CAR
+ We made this project when we participated Hack x SJTU compotition.\
  Thanks NVIDIA for their technical support
 #### Group member:
 [Jin Yongxu](https://github.com/JosephKim6)\
