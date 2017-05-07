@@ -38,10 +38,10 @@ You should use ROS to create a function package named ros_caffe\
 Then create a node named ros_caffe_test
 
 #### Run
-```
+``` bash
   catkin_make
   roscore
-  rosrun rosserial_python serial_node.py /dev/ttyACM0 (maybe ttyACM1)
+  rosrun rosserial_python serial_node.py /dev/ttyACM0
   rosrun ros_caffe ros_caffe_test
 
 ```
