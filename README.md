@@ -2,11 +2,11 @@
  We made this project when we participated Hack x SJTU compotition 
  Thanks NVIDIA for their technical support
 #### Group member:
-[Jin Yongxu,](https://github.com/JosephKim6)\
-[Luo Anqi,]()\
-[Gou Minghao,]()\
-[Wang Tao,](https://github.com/IrvingW)\
-[Qian Xinxin,]()\
+[Jin Yongxu](https://github.com/JosephKim6)\
+[Luo Anqi]()\
+[Gou Minghao]()\
+[Wang Tao](https://github.com/IrvingW)\
+[Qian Xinxin]()
 
 #### Function Detail
 We implemented a smart car using Arduino and TX1.
@@ -34,7 +34,7 @@ The smart car do some movement as following:
 
 
 #### Deployment
-You should use ROS to create a function package named ros_caffe
+You should use ROS to create a function package named ros_caffe\
 Then create a node named ros_caffe_test
 
 #### Run
@@ -45,3 +45,5 @@ Then create a node named ros_caffe_test
 
 
 Here is the [official website of Hackson.](https://www.hackx.org/)
+
+``` python@requires_authorizationdef somefunc(param1='', param2=0): '''A docstring''' if param1 > param2: # interesting print 'Greater' return (param2 - param1 + 1) or Noneclass SomeClass: pass>>> message = '''interpreter... prompt'''```
