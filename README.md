@@ -38,12 +38,13 @@ You should use ROS to create a function package named ros_caffe\
 Then create a node named ros_caffe_test
 
 #### Run
+```
   catkin_make
   roscore
   rosrun rosserial_python serial_node.py /dev/ttyACM0 (maybe ttyACM1)
   rosrun ros_caffe ros_caffe_test
 
+```
 
 Here is the [official website of Hackson.](https://www.hackx.org/)
 
-``` python@requires_authorizationdef somefunc(param1='', param2=0): '''A docstring''' if param1 > param2: # interesting print 'Greater' return (param2 - param1 + 1) or Noneclass SomeClass: pass>>> message = '''interpreter... prompt'''```
