@@ -1,14 +1,14 @@
 # NVIDIA SMART CAR
  We made this project when we participated Hack x SJTU compotition.\
  Thanks NVIDIA for their technical support
-### Group member:
+## Group member:
 [Jin Yongxu](https://github.com/JosephKim6)\
 [Luo Anqi]()\
 [Gou Minghao]()\
 [Wang Tao](https://github.com/IrvingW)\
 [Qian Xinxin]()
 
-### Function Detail
+## Function Detail
 We implemented a smart car using Arduino and TX1.
 The smart car do some movement as following:
 * Move forward when the camera detect a car
@@ -19,25 +19,25 @@ The smart car do some movement as following:
 * Turn right then move forward when detect a bicycle
 * Stop immediatily when the car meet an obstacle(using ultrasonic sensor)
 
-### Techniques
+## Techniques
 * Caffe Deeplearning framework
 * Arduino
 * ROS
 * OpenCV
 
-### Picture
+## Picture
 ![Picture](https://github.com/JosephKim6/HackXSJTU-Nvidia/blob/master/4775AC0C5F0EC7A554805684CA0FF74F.jpg)
 
-### Files
+## Files
 * car4.c is the code controlling arduino
 * main.cpp is the code controlling TX1
 
 
-### Deployment
+## Deployment
 You should use ROS to create a function package named ros_caffe\
 Then create a node named ros_caffe_test
 
-### Run
+## Run
 ``` bash
   catkin_make
   roscore
